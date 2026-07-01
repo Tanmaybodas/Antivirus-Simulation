@@ -47,4 +47,3 @@ python main.py --list-quarantine
 ## Disclaimer
 
 This project is for educational use only. It is not a real antivirus and should not be used for actual malware protection.
-#
